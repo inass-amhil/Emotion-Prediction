@@ -35,10 +35,10 @@ Open and run the emojis.ipynb notebook.
 This notebook will use the trained model to predict emotions from facial images and display corresponding emojis.
 
 ### Requirements:
-Python 3.x
-TensorFlow
-Keras
-NumPy
-Pandas
-Matplotlib
-OpenCV
+- Python 3.x
+- TensorFlow
+- Keras
+- NumPy
+- Pandas
+- Matplotlib
+- OpenCV
