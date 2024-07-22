@@ -23,7 +23,7 @@ For example:
 ```python
 train_dir = 'path/to/your/downloaded/train_data'
 val_dir = 'path/to/your/downloaded/val_data'
-
+```
 ### Step 3: Train the Model
 
 Open and run the model0.ipynb notebook.
