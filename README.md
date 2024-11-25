@@ -1,6 +1,7 @@
 # Emotion-Prediction
 
 This project aims to predict emotions from facial expressions using deep learning. The model is trained on the FER 2013 dataset from Kaggle and the training weights are saved in an H5 file.
+This was a group project with my dear friends Ammari Hiba and Lfellous Rim
 
 ## Project Structure
 
